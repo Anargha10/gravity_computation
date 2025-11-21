@@ -600,9 +600,9 @@ Hover over canvas in Barnes-Hut mode to see:
 
 ---
 
-## 🎓 Educational Use Cases
 
-### For Students
+
+
 
 **Topics this covers:**
 - Data Structures: QuadTree, recursive trees
@@ -611,21 +611,7 @@ Hover over canvas in Barnes-Hut mode to see:
 - Computer Graphics: Canvas rendering, animation loops
 - Software Engineering: React architecture, performance optimization
 
-### For Teachers
 
-**Demonstration ideas:**
-1. Start with 100 particles (both algorithms perform well)
-2. Increase to 500 (Brute Force starts lagging)
-3. Jump to 2,000 (Brute Force collapses, Barnes-Hut thrives)
-4. Discuss why: Show the N² vs N log N growth curves
-
-### For Interviewers
-
-**Questions this project can answer:**
-- "How do you optimize expensive computations?"
-- "Explain a time you chose the right data structure"
-- "How do you profile and measure performance?"
-- "Walk me through a complex algorithm implementation"
 
 ---
 
@@ -712,8 +698,8 @@ Built with React, Vite, Tailwind CSS, and inspiration from:
 
 ---
 
-**Built by:** [Your Name]
-**Portfolio:** [Your Website]
-**GitHub:** [Your GitHub]
+**Built by:** [Anargha Bhattacharjee]
+**Portfolio:** [https://my-portfolio-alpha-self-81.vercel.app/]
+**GitHub:** [https://github.com/Anargha10]
 
 *"Turning O(N²) problems into O(N log N) solutions, one QuadTree at a time."* 🚀
